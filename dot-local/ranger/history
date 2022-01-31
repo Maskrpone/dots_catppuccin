@@ -1,0 +1,24 @@
+search wallpaper
+search pixmap
+search light
+search lightd
+search .config
+search themes
+h
+touch 
+Terminal
+terminal
+search theme
+terminal 
+
+shell 
+mkdir
+mkdir school
+mkdir English
+mkdir -p {Web, Prog}
+delete 
+mkdir Prog
+mkdir Web
+mkdir Com/epi
+delete
+rename Com-Epi
