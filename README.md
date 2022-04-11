@@ -2,8 +2,7 @@
 #### The global theme used is [catppuccin](https://github.com/catppuccin/catppuccin), with the default background purple replaced with `#0f0c17` .
 
  **Showcase**
-
-![[/img/rice_terminal.png]]
+<img sr="img/rice_terminal.png">
 
  * shell : [fish](https://github.com/fish-shell/fish-shell)with [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
  * oh-my-fish plugins :  [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) (theme), [z](https://github.com/oh-my-fish/plugin-z)
