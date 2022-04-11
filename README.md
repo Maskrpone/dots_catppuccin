@@ -4,6 +4,7 @@
  **Showcase**
 
 ![[rice_terminal.png]]
+<img src="rice_terminal.png">
 
  * shell : [fish](https://github.com/fish-shell/fish-shell)with [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
  * oh-my-fish plugins :  [bobthefish](https://github.com/oh-my-fish/theme-bobthefish) (theme), [z](https://github.com/oh-my-fish/plugin-z)
