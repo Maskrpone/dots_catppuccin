@@ -1,7 +1,6 @@
 :set number
 :set autoindent
 :set mouse=a
-:set relativenumber
 
 call plug#begin()
 
@@ -27,6 +26,9 @@ nnoremap <C-t> :TerminalSplit fish<CR>
 nnoremap <silent> <leader> :WhichKey '<Space>'<CR>
 nnoremap <C-/> :AutoInlineComment<CR>
 nnoremap <C-s> :Startify<CR>
+
+"set background=light
+"colorscheme toast
 
 let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
